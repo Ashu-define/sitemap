@@ -1,2 +1,0 @@
-# sitemap
-for my website
